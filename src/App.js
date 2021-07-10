@@ -9,6 +9,9 @@ function App() {
         <p>
           Edit the file <code>src/App.js</code> to make changes and then save the file to reload.
         </p>
+        <p>
+          I was changed on the feature branch.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
